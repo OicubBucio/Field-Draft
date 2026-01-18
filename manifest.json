@@ -1,8 +1,8 @@
 {
   "name": "Field Draft",
   "short_name": "FieldDraft",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/Field-Draft/",
+"scope": "/Field-Draft/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
